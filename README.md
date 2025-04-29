@@ -5,6 +5,7 @@ Ele será estruturado em React em tipagem TypeScript.
 Extensões utilizada até o momento:
         - react-router-dom
         - framer-motion
+        - tailwindcss 
 
 -> A ideia é criar algo que consiga utilizar com frequência para demonstração de futuras, pessoas interessadas
 em querer me fazer propostas de trabalho.
